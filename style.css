@@ -1,0 +1,60 @@
+.main {
+    display: flex;
+    margin-left:200px;
+    margin-top:150px;
+}
+
+h1 {
+    color: blue;
+    width: 100%;
+    height: 10%;
+    font-size: 80px;
+    padding-right: 100px;
+    
+
+}
+
+.form {
+    border: 1px solid black;
+    padding: 6px;
+    width: 400px;
+    border-radius: 10px;
+    text-align: center;
+    overflow: hidden;
+    box-shadow: 2px 2px 4px white;
+}
+
+input {
+    width: 330px;
+    margin: 5PX;
+    padding: 10px;
+    text-align: left;
+}
+
+.log {
+    text-align: center;
+    width: 255px;
+    background-color: rgb(26, 26, 245);
+    border-radius: 5px;
+    border-collapse: collapse;
+    color: white;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+
+a {
+    color: rgb(126, 30, 126);
+    text-decoration: none;
+}
+
+.h1 {
+    text-align: center;
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+    text-transform: capitalize;
+    width: 144px;
+}
+p {
+    font-size: 20px;
+}
